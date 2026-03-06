@@ -2,7 +2,7 @@ function Image({ image }){
     return
     <img src="{mage}" />
 }
-function WatchInfo({name, price}){
+function WatchInfo({name, price}){ //stock 
      return (
         <div>
             <h2>{name}</h2>
